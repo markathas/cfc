@@ -1,3 +1,5 @@
 ## Cold Case Notes
 
-[2024-03-04 Lesson 1](./ccc/ccc-l1.md)
+[2024-03-04 Lesson](ccc-l1.md)
+
+[2024-05-12 Lesson](witness.md)

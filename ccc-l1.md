@@ -2,7 +2,7 @@
 
 ### Page 11
 
-![Claims](../images/claims.png)
+![Claims](images/claims.png)
 
 ### Page 12
 

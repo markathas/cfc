@@ -2,11 +2,11 @@
 
 ### Page 59
 
-![TimeLine](../images/timeline.png)
+![TimeLine](images/timeline.png)
 
 ### Summary Points
 
-![Points](../images/points.png)
+![Points](images/points.png)
 
 ### References
 
